@@ -1,0 +1,14 @@
+- byoumei: 急性咽頭炎
+- byoumei: 急性気管支炎
+- byoumei: アレルギー性鼻炎
+- byoumei: アレルギー性結膜炎
+- byoumei: 気管支喘息
+- byoumei: 急性胃腸炎
+- byoumei: 頭痛
+- byoumei: 糖尿病
+- label: 糖尿病の疑い
+  byoumei: 糖尿病
+  adj-list: ["の疑い"]
+- byoumei: インフルエンザＡ型
+- label: "(の疑い)"
+  adj-list: ["の疑い"]

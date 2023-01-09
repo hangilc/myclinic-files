@@ -1,0 +1,702 @@
+[
+  {
+    "iyakuhincode": 620004496,
+    "amount": "2",
+    "usage": "分２　朝夕食後",
+    "days": 42,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 621946001,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 3,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620675501,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610443053,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 35,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622127401,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 35,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610443053,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620009126,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 660463013,
+    "amount": "28",
+    "usage": "１日２回貼付",
+    "days": 0,
+    "category": 2
+  },
+  {
+    "iyakuhincode": 620000033,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 3,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620007871,
+    "amount": "2",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610433136,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 14,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620098801,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 3,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620389417,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620007871,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620003552,
+    "amount": "6",
+    "usage": "分３　毎食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 621685101,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 56,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622126901,
+    "amount": "1",
+    "usage": "分１　就寝前",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620000033,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620000033,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 14,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622581301,
+    "amount": "2",
+    "usage": "分２　朝夕食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622141901,
+    "amount": "1",
+    "usage": "分１　寝る前",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622110901,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 7,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620000033,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620003665,
+    "amount": "2",
+    "usage": "分２　朝夕食後",
+    "days": 3,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620007837,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620004922,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 612170707,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 21,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 611120080,
+    "amount": "1",
+    "usage": "分１　就寝前",
+    "days": 14,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620004587,
+    "amount": "3",
+    "usage": "分３　毎食前",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 612220325,
+    "amount": "6",
+    "usage": "分３　毎食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 616140105,
+    "amount": "2",
+    "usage": "分２　朝夕食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620005905,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 35,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 612130207,
+    "amount": "0.5",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 611140138,
+    "amount": "2",
+    "usage": "分２　朝夕食後",
+    "days": 7,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620000140,
+    "amount": "1",
+    "usage": "分１　就寝前",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 612170663,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 14,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610462036,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620004922,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 621946001,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 2,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620009126,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610463043,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 662560019,
+    "amount": "28",
+    "usage": "１回２ｇ、１日１回塗布",
+    "days": 0,
+    "category": 2
+  },
+  {
+    "iyakuhincode": 621401501,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610432012,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 42,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622142601,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 56,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610463042,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 612120336,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620000141,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622110901,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 56,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 612450118,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 14,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620009430,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 42,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620477001,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 56,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 621946001,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620003477,
+    "amount": "28",
+    "usage": "１日１回患部に貼付",
+    "days": 1,
+    "category": 2
+  },
+  {
+    "iyakuhincode": 620004922,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620003530,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 35,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620009126,
+    "amount": "3",
+    "usage": "分１　朝食後",
+    "days": 35,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620002123,
+    "amount": "2",
+    "usage": "分２　朝夕食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610463043,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622142801,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620002870,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 7,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610411058,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620000033,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 3,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622110901,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620009493,
+    "amount": "2",
+    "usage": "分２　朝夕食後",
+    "days": 2,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620000140,
+    "amount": "1",
+    "usage": "分１　就寝前",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610421321,
+    "amount": "3",
+    "usage": "分２ (2-1)　朝夕食後",
+    "days": 56,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610463043,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 616150088,
+    "amount": "4",
+    "usage": "分２　朝夕食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610443067,
+    "amount": "2",
+    "usage": "分２　朝夕食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 621531101,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 662310002,
+    "amount": "20",
+    "usage": "１回１錠　１日２回",
+    "days": 0,
+    "category": 2
+  },
+  {
+    "iyakuhincode": 610454087,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620000033,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 3,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620000033,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 621925801,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622126901,
+    "amount": "2",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 611120080,
+    "amount": "1",
+    "usage": "分１　就寝前",
+    "days": 42,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620005905,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620004259,
+    "amount": "1",
+    "usage": "１日2回点鼻　１回１噴霧",
+    "days": 1,
+    "category": 2
+  },
+  {
+    "iyakuhincode": 620003665,
+    "amount": "2",
+    "usage": "分２　朝夕食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622144801,
+    "amount": "2",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 611170513,
+    "amount": "2",
+    "usage": "分２　朝夕食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 612170707,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 14,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622126901,
+    "amount": "2",
+    "usage": "分１　寝る前",
+    "days": 35,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610463223,
+    "amount": "1",
+    "usage": "分１　就寝前",
+    "days": 21,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620003552,
+    "amount": "6",
+    "usage": "分３　毎食後",
+    "days": 5,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 621687401,
+    "amount": "2",
+    "usage": "分２　朝夕食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 612120335,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620003271,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622382701,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620001986,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 7,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620007871,
+    "amount": "2",
+    "usage": "分１　寝る前",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 621946001,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620009126,
+    "amount": "2",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610462028,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 7,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 610463043,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620003552,
+    "amount": "6",
+    "usage": "分３　毎食後",
+    "days": 4,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 620005905,
+    "amount": "1",
+    "usage": "分１　朝食後",
+    "days": 28,
+    "category": 0
+  },
+  {
+    "iyakuhincode": 622198401,
+    "amount": "3",
+    "usage": "分３　毎食後",
+    "days": 28,
+    "category": 0
+  }
+]
